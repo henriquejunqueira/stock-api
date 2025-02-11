@@ -8,8 +8,7 @@
 
 ### Observações Importantes
 
-- Clone o projeto:
-- Instale as dependências:
+- Clone o projeto: `$ git clone https://github.com/henriquejunqueira/stock-api.git`
+- Instale as dependências: `$ npm i`
+- A chave de API é possível conseguir clicando em `Get free API key` e fazendo o cadastro no site: [Finnhub Stock API](https://finnhub.io/)
 - Crie um arquivo .env na raiz do projeto e adicione a variável `FINNHUB_API_KEY=sua-chave-api`
-- A chave de API é possível conseguir fazendo o cadastro no site: [Finnhub Stock API](https://finnhub.io/)
--
